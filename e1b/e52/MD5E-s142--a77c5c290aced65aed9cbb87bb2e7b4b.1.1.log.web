@@ -1,0 +1,14 @@
+1790750487s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/median/1.1.1?versionId=vC4TWLUjGHDqlz749JZhDs9XwT2TTe3Z
+1790750487s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fmedian%2F1.1.1&download=true
+1790750487s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/percentile_1/0.1.1?versionId=YcGX1PrWjwkQ9ZV8pjvWXfyRY1FtHr24
+1790750487s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fpercentile_1%2F0.1.1&download=true
+1790750487s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/percentile_1/1.1.1?versionId=53bZD1LOUNTT5JY6p7QwEMPgjgidjcQL
+1790750487s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fpercentile_1%2F1.1.1&download=true
+1790750487s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/percentile_25/1.1.1?versionId=wTfwKqFIvj9ENedtsg6E93Zieq9NtGnD
+1790750487s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fpercentile_25%2F1.1.1&download=true
+1790750487s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/percentile_99/0.1.1?versionId=a.T87Ti5bCtHArK9qc_XZ8K_s_Vw7pfZ
+1790750487s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fpercentile_99%2F0.1.1&download=true
+1790750488s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/std/0.1.1?versionId=DPsNWy5ZZUxLne3jSBnplbtaLgqJBl4Y
+1790750488s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fstd%2F0.1.1&download=true
+1790750488s 1 https://dandiarchive.s3.amazonaws.com/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/extensions/templates/std/1.1.1?versionId=MSyMfH8wNZyNd5ylH9ZaWGUd_St8k0Xk
+1790750488s 1 https://api.dandiarchive.org/api/zarr/5b81c1c6-7a56-4b9a-bffa-8b7ebe8d5aee/files?prefix=extensions%2Ftemplates%2Fstd%2F1.1.1&download=true
